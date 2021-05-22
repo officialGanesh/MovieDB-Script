@@ -1,0 +1,97 @@
+{
+  "page": 1,
+  "results": [
+    {
+      "id": 11106,
+      "logo_path": "/h4XR8uTNylVX9hJTiN50e76booZ.png",
+      "name": "Marvel Knights",
+      "origin_country": "US"
+    },
+    {
+      "id": 420,
+      "logo_path": "/hUzeosd33nzE5MCNsZxCGEKTXaQ.png",
+      "name": "Marvel Studios",
+      "origin_country": "US"
+    },
+    {
+      "id": 108634,
+      "logo_path": null,
+      "name": "Marvel Films",
+      "origin_country": ""
+    },
+    {
+      "id": 2301,
+      "logo_path": "/qdPhBEP8sjK3Eb3rKc94554gcZt.png",
+      "name": "Marvel Productions",
+      "origin_country": "US"
+    },
+    {
+      "id": 13252,
+      "logo_path": "/aGeUvfSNA8gRl6ZjvmLQOsb7PMw.png",
+      "name": "Marvel Animation",
+      "origin_country": "US"
+    },
+    {
+      "id": 133955,
+      "logo_path": null,
+      "name": "Blue Marvel",
+      "origin_country": ""
+    },
+    {
+      "id": 19551,
+      "logo_path": "/2WpWp9b108hizjHKdA107hFmvQ5.png",
+      "name": "Marvel Enterprises",
+      "origin_country": "US"
+    },
+    {
+      "id": 38679,
+      "logo_path": "/v2y3LuLxYtW36hvLa8IDGQk3Oql.png",
+      "name": "Marvel Television",
+      "origin_country": "US"
+    },
+    {
+      "id": 7505,
+      "logo_path": "/837VMM4wOkODc1idNxGT0KQJlej.png",
+      "name": "Marvel Entertainment",
+      "origin_country": "US"
+    },
+    {
+      "id": 125136,
+      "logo_path": null,
+      "name": "Marvel New Media",
+      "origin_country": "US"
+    },
+    {
+      "id": 11763,
+      "logo_path": null,
+      "name": "Circus of Marvels",
+      "origin_country": ""
+    },
+    {
+      "id": 62696,
+      "logo_path": null,
+      "name": "Marvelous AQL",
+      "origin_country": ""
+    },
+    {
+      "id": 75930,
+      "logo_path": null,
+      "name": "Marvelous Entertainment",
+      "origin_country": ""
+    },
+    {
+      "id": 149633,
+      "logo_path": null,
+      "name": "Marvelous Productions",
+      "origin_country": ""
+    },
+    {
+      "id": 100930,
+      "logo_path": null,
+      "name": "Marvels Film Production",
+      "origin_country": ""
+    }
+  ],
+  "total_pages": 1,
+  "total_results": 15
+}
