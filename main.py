@@ -1,7 +1,8 @@
 # Import the required module
 
-import csv , json , requests
+import json , requests
 from pprint import pprint
+import pandas as pd
 
 """
 
@@ -15,7 +16,7 @@ GET /search/company
 def MovieDB_script():
     '''Main function to get movie info'''
 
-    api_key = '1ff5e64828c4dd99b310dc81a34c56e0'
+    api_key = 'Your api key'
     base_url = 'https://api.themoviedb.org/3/'
     movie_search = 'Disney'
 
@@ -113,6 +114,10 @@ def MovieDB_script():
                             print('\n\n\n')
                     except Exception as e:
                         print('Error --> ',e)
+                
+                df = pd.DataFrame(raw_data)
+                print(df.head())
+                df.to_csv('ResultsCSV/file.csv',index=False)
 
             movie_info()
 
