@@ -2,96 +2,126 @@
   "page": 1,
   "results": [
     {
-      "id": 11106,
-      "logo_path": "/h4XR8uTNylVX9hJTiN50e76booZ.png",
-      "name": "Marvel Knights",
-      "origin_country": "US"
-    },
-    {
-      "id": 420,
-      "logo_path": "/hUzeosd33nzE5MCNsZxCGEKTXaQ.png",
-      "name": "Marvel Studios",
-      "origin_country": "US"
-    },
-    {
-      "id": 108634,
+      "id": 154126,
       "logo_path": null,
-      "name": "Marvel Films",
+      "name": "Disney",
       "origin_country": ""
     },
     {
-      "id": 2301,
-      "logo_path": "/qdPhBEP8sjK3Eb3rKc94554gcZt.png",
-      "name": "Marvel Productions",
-      "origin_country": "US"
-    },
-    {
-      "id": 13252,
-      "logo_path": "/aGeUvfSNA8gRl6ZjvmLQOsb7PMw.png",
-      "name": "Marvel Animation",
-      "origin_country": "US"
-    },
-    {
-      "id": 133955,
+      "id": 104966,
       "logo_path": null,
-      "name": "Blue Marvel",
+      "name": "Disney Destinations",
       "origin_country": ""
     },
     {
-      "id": 19551,
-      "logo_path": "/2WpWp9b108hizjHKdA107hFmvQ5.png",
-      "name": "Marvel Enterprises",
+      "id": 26151,
+      "logo_path": null,
+      "name": "Disney Enterprises",
       "origin_country": "US"
     },
     {
-      "id": 38679,
-      "logo_path": "/v2y3LuLxYtW36hvLa8IDGQk3Oql.png",
-      "name": "Marvel Television",
+      "id": 3475,
+      "logo_path": "/jTPNzDEn7eHmp3nEXEEtkHm6jLg.png",
+      "name": "Disney Television Animation",
       "origin_country": "US"
     },
     {
-      "id": 7505,
-      "logo_path": "/837VMM4wOkODc1idNxGT0KQJlej.png",
-      "name": "Marvel Entertainment",
+      "id": 112779,
+      "logo_path": null,
+      "name": "Walt Disney Animation",
+      "origin_country": "FR"
+    },
+    {
+      "id": 99981,
+      "logo_path": null,
+      "name": "Disney T\u00fcrkiye",
+      "origin_country": ""
+    },
+    {
+      "id": 2,
+      "logo_path": "/wdrCwmRnLFJhEoH8GSfymY85KHT.png",
+      "name": "Walt Disney Pictures",
       "origin_country": "US"
     },
     {
-      "id": 125136,
-      "logo_path": null,
-      "name": "Marvel New Media",
+      "id": 15935,
+      "logo_path": "/25xmKjrZS3TJMYa1RvxZ2qcMHHX.png",
+      "name": "Walt Disney Imagineering",
       "origin_country": "US"
     },
     {
-      "id": 11763,
+      "id": 13571,
       "logo_path": null,
-      "name": "Circus of Marvels",
+      "name": "Disney Educational Productions",
       "origin_country": ""
     },
     {
-      "id": 62696,
+      "id": 670,
+      "logo_path": "/rRGi5UkwvdOPSfr5Xf42RZUsYgd.png",
+      "name": "Walt Disney Television",
+      "origin_country": "US"
+    },
+    {
+      "id": 88716,
       "logo_path": null,
-      "name": "Marvelous AQL",
+      "name": "Walt Disney Germany",
       "origin_country": ""
     },
     {
-      "id": 75930,
+      "id": 145711,
       "logo_path": null,
-      "name": "Marvelous Entertainment",
+      "name": "Walt Disney Theatrical",
       "origin_country": ""
     },
     {
-      "id": 149633,
+      "id": 41712,
       "logo_path": null,
-      "name": "Marvelous Productions",
+      "name": "Disney Interactive, Canada",
       "origin_country": ""
     },
     {
-      "id": 100930,
+      "id": 89347,
       "logo_path": null,
-      "name": "Marvels Film Production",
+      "name": "Disney World Cinema",
       "origin_country": ""
+    },
+    {
+      "id": 52126,
+      "logo_path": null,
+      "name": "Disney Media Productions",
+      "origin_country": ""
+    },
+    {
+      "id": 130098,
+      "logo_path": null,
+      "name": "Disney Interactive Studios",
+      "origin_country": ""
+    },
+    {
+      "id": 107039,
+      "logo_path": null,
+      "name": "Disney Broadcast Production",
+      "origin_country": ""
+    },
+    {
+      "id": 109755,
+      "logo_path": "/hUCbTgfDPp1sIo8BOI0AaOMx1Si.png",
+      "name": "Walt Disney Studios",
+      "origin_country": "US"
+    },
+    {
+      "id": 91233,
+      "logo_path": null,
+      "name": "Disney Digital Network",
+      "origin_country": ""
+    },
+    {
+      "id": 3166,
+      "logo_path": "/vyyv4Gy9nPqAZKElPm2izLlEaVS.png",
+      "name": "Walt Disney Productions",
+      "origin_country": "US"
     }
   ],
-  "total_pages": 1,
-  "total_results": 15
+  "total_pages": 3,
+  "total_results": 42
 }

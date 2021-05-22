@@ -17,7 +17,7 @@ def MovieDB_script():
 
     api_key = '1ff5e64828c4dd99b310dc81a34c56e0'
     base_url = 'https://api.themoviedb.org/3/'
-    movie_search = 'Marvel'
+    movie_search = 'Disney'
 
     url = f"{base_url}search/company?api_key={api_key}&query={movie_search}"
 
@@ -44,7 +44,77 @@ def MovieDB_script():
                     j = i['id']
                     different_id.append(j)
                                      
-            
+            def movie_info():
+                '''Getting the movie info'''
+                for movie_id in different_id:
+                
+                    movie_url = f"{base_url}movie/{movie_id}?api_key={api_key}"
+                    
+                    req = requests.get(movie_url)
+                    req.raise_for_status
+                    # print(movie_url)
+
+                    with open(f'ResultsMovie/{movie_id}movie.json','w') as f:
+                        f.write(json.dumps(req.json(),indent=2))
+
+                    # some prints
+                    try:
+                        with open(f'ResultsMovie/{movie_id}movie.json','r') as py_movie_file:
+
+                            data = json.load(py_movie_file)
+                            # print(type(data))
+
+                            titles = []
+                            budget = []
+                            overview = []
+                            genres = []                            
+                            popularity = []
+                            raw_data = []
+
+                            for i,j in data.items():
+                                if i == 'title':
+                                    if i == None:
+                                        continue
+                                    titles.append(j)
+                            
+                                
+                                if i == 'budget':
+                                    if i == None:
+                                        continue
+                                    titles.append(j)
+                            
+                                
+                                if i == 'overview':
+                                    if i == None:
+                                        continue
+                                    titles.append(j)
+                            
+                                
+                                if i == 'genres':
+                                    if i == None:
+                                        continue
+                                    titles.append(j)
+                            
+                                
+                                if i == 'popularity':
+                                    if i == None:
+                                        continue
+                                    titles.append(j)
+                            
+                                
+                            
+                            raw_data.append(titles)
+                            raw_data.append(budget)
+                            raw_data.append(overview)
+                            raw_data.append(genres)
+                            raw_data.append(popularity)
+                            
+                            print(raw_data)
+                            print('\n\n\n')
+                    except Exception as e:
+                        print('Error --> ',e)
+
+            movie_info()
 
         json_file()
 

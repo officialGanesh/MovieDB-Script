@@ -1,0 +1,62 @@
+{
+  "adult": false,
+  "backdrop_path": "/2OurcarML8ZOjO0ndnnepKDZODj.jpg",
+  "belongs_to_collection": null,
+  "budget": 0,
+  "genres": [
+    {
+      "id": 28,
+      "name": "Action"
+    },
+    {
+      "id": 12,
+      "name": "Adventure"
+    },
+    {
+      "id": 14,
+      "name": "Fantasy"
+    },
+    {
+      "id": 53,
+      "name": "Thriller"
+    }
+  ],
+  "homepage": "https://garo-project.jp/REDREQUIEM/",
+  "id": 75930,
+  "imdb_id": "tt1554970",
+  "original_language": "ja",
+  "original_title": "\u7259\u72fc\u3008GARO\u3009 \uff5eRED REQUIEM\uff5e",
+  "overview": "Kouga Saezima travels to a city from his childhood after receiving orders to hunt down the Horror Karma, an ancient female Horror who is one of the infamous Apostle Horrors. By that time, Karma's followers, Kurusu and Shion set up base in a gothic club called Crime to satisfy their mistress's appetite by bringing her various girls and lure them into her realm with false promises of making their dreams a reality. As Kouga arrives, ignoring the memories he has of it, a Makai Priestess named Rekka also arrives in the city and aids a pair of Makai Priests named Akaza and Shiguto in saving a baby from a Horror posing as a mother. However, Kouga arrives and reveals the \"baby\" to be a Horror that Zaruba identifies as the cannibalistic Apostle Horror Babel.",
+  "popularity": 1.595,
+  "poster_path": "/a7CDFXJozm6rGw25GGMgqtFTYUy.jpg",
+  "production_companies": [
+    {
+      "id": 1780,
+      "logo_path": "/2KJ1cSBOGABQotDWSRPNY4C9amg.png",
+      "name": "Tohokushinsha Film Corporation",
+      "origin_country": "JP"
+    }
+  ],
+  "production_countries": [
+    {
+      "iso_3166_1": "JP",
+      "name": "Japan"
+    }
+  ],
+  "release_date": "2010-10-30",
+  "revenue": 0,
+  "runtime": 97,
+  "spoken_languages": [
+    {
+      "english_name": "Japanese",
+      "iso_639_1": "ja",
+      "name": "\u65e5\u672c\u8a9e"
+    }
+  ],
+  "status": "Released",
+  "tagline": "The Golden Knight Runs into the 3D Hell!",
+  "title": "GARO: Red Requiem",
+  "video": false,
+  "vote_average": 5.9,
+  "vote_count": 7
+}
